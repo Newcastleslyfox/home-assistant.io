@@ -70,7 +70,8 @@ Currently known supported models:
 - UE65KS8005 (port must be set to 8001, On/Off, Forward/Backward, Volume are OK, but no Play button)
 - UE6199UXZG (port must be set to 8001, On/Off, Forward/Backward, Volume control, but no Play button)
 - Q7F (port must be set to 8001, MAC must be specified for Power On)
-- UE40KU6400U (port must be set to 8001, and `pip3 install websocket-client` must be executed)
+- KU6400U (port must be set to 8001, and `pip3 install websocket-client` must be executed)
+- KU7510 (port set to 8001, On/Off working but no play button, volume control or back/forward)
 
 Currently tested but not working models:
 
